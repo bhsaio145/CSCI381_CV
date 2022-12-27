@@ -1,0 +1,2 @@
+# Project 1 : Threshold
+Using CPP coded a program which performs the image processing procedure of "Thresholding" on the provided image
