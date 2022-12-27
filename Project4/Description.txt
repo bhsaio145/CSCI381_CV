@@ -1,0 +1,2 @@
+# Project 4 : Implementation of the four basic Morphology Operations.
+Using CPP coded a program which performed the four basic morphological operations (open, close, dilate, and erosion) on a provided text image.
