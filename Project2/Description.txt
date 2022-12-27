@@ -1,0 +1,2 @@
+# Project 1 : AvgMedianGaussFilters
+Using Java coded a program which performs the image processing operations of "Median Filtering", "Gaussian Filtering", and "Average Filtering" on a provided image
